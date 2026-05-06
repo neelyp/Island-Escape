@@ -28,7 +28,6 @@ script = ExtResource("1_fu7sn")
 
 [node name="BlackOverlay" type="ColorRect" parent="." unique_id=225692793]
 unique_name_in_owner = true
-visible = false
 z_index = 5
 layout_mode = 0
 offset_right = 1152.0
