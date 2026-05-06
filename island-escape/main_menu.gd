@@ -26,3 +26,7 @@ func _ready():
 
 func _physics_process(_delta):
 	pass
+
+
+func _on_button_pressed() -> void:
+	pass # put load scene for main game here

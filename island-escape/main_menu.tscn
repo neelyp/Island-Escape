@@ -76,3 +76,5 @@ offset_bottom = 675.0
 scale = Vector2(5, 5)
 theme_override_fonts/font = ExtResource("2_fu7sn")
 text = "PLAY"
+
+[connection signal="pressed" from="UI_Elements/Button" to="." method="_on_button_pressed"]
